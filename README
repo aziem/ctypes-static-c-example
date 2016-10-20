@@ -1,0 +1,5 @@
+Tiny example showing how to build a C object file and statically linking with an OCaml binary using OCaml-Ctypes
+
+Uses information from:
+https://github.com/ocamllabs/ocaml-ctypes/issues/167
+https://github.com/ocamllabs/ocaml-ctypes/issues/236
